@@ -65,8 +65,6 @@ signs data set:
 
 #### 2. Include an exploratory visualization of the dataset.
 
-Here is an exploratory visualization of the data set. It is a bar chart showing how the data ...
-
 ![Visualization][image1]
 
 As the result indicates there is significant unbalance between the classes that might cause problem for scaling and generalizing the model. This unbalance could be solved by generating some artificial data out of the original data. Since for this project we could achieve our goal, and due to the lack of time I skipped this part for now and I used the original data set.
